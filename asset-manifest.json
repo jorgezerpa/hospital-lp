@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hospital-lp/static/css/main.e3b593aa.css",
+    "main.js": "/hospital-lp/static/js/main.5203e229.js",
+    "static/media/header.jpg": "/hospital-lp/static/media/header.2ec5eafa922213d266e3.jpg",
+    "index.html": "/hospital-lp/index.html",
+    "static/media/menu.svg": "/hospital-lp/static/media/menu.3089180f8ca7b9883b7e0cf918375b82.svg",
+    "main.e3b593aa.css.map": "/hospital-lp/static/css/main.e3b593aa.css.map",
+    "main.5203e229.js.map": "/hospital-lp/static/js/main.5203e229.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3b593aa.css",
+    "static/js/main.5203e229.js"
+  ]
+}
